@@ -575,10 +575,10 @@ This project demonstrates a modular Infrastructure as Code approach for provisio
 
 
 
-![AWS Terraform Infrastructure Architecture](/screenshots/images/vscode.png)
+![AWS Terraform Infrastructure Architecture](/images/vscode.png)
 
 
-![AWS Terraform Infrastructure Architecture](/screenshots/images/aws.png)
+![AWS Terraform Infrastructure Architecture](/images/aws.png)
 
 ## Author
 
